@@ -1,1 +1,2 @@
 And here first line changed
+Second line changed
